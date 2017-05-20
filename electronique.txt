@@ -1,0 +1,6 @@
+pieces que j'ai besoin pour la partie electronique de l'imprimante
+
+- 5 moteurs pas a pas nema 17
+- 3 capteurs fin de course mecanique
+- carte electronique ramp 1.4 + shield et drivers
+- resistance et thetmistance
